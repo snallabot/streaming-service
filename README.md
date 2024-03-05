@@ -1,5 +1,5 @@
-# streaming-service
-A Madden service that will stream broadcasts to discord
+# streaming-service [DECOMISSIONED]
+A Madden service that will stream broadcasts to discord. This doesnt work because discord does not allow live streaming
 
 ## Development
 Node version: v20.11.1
